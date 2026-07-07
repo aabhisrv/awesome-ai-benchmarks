@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "variant": "public",
+  "privacy": "plain-paths",
+  "engineVersion": "structure-1",
+  "scoredFrom": "cc111d3aef176e9ee14b7017f20db02bef1e3657",
+  "repo": {
+    "name": "aabhisrv/awesome-ai-benchmarks",
+    "commit": "cc111d3aef176e9ee14b7017f20db02bef1e3657"
+  },
+  "counts": {
+    "files": 38,
+    "edges": 2,
+    "clusters": 2,
+    "masters": 0
+  },
+  "graphFingerprint": "1f404798b35b8113",
+  "fileHashes": {
+    "structure.ndjson": "1f404798b35b811304aa4bd29d353d1ba82d60e31d67abf5400a8eb7568bc24f",
+    "AGENTS.block.md": "716438e24ed7fd210a4f87a28cb421755d61a3649698469b703adf72be71b176"
+  },
+  "benchmark": {
+    "standard": "context-trust-level",
+    "url": "https://contextbenchmark.com",
+    "note": "CTL is measured, never hardcoded."
+  },
+  "ownership": {
+    "owner": "repo",
+    "license": "inherits-repo",
+    "generator": "spiderbrain"
+  },
+  "attribution": null
+}
